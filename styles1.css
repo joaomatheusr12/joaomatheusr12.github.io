@@ -104,17 +104,17 @@ header {
     }
 }
 .center img {
-    width: 200px; /* Adjust as needed */
+    width: 200px; 
     height: 200px; 
     margin-left: 50px; 
     position: relative; 
     left: 540px; 
     top: 60px; 
-    border-radius: 50%; /* Add this */
+    border-radius: 50%; 
 }
 .recipe-links img {
-    width: 100px;  /* ajuste conforme necessário */
-    height: 100px; /* ajuste conforme necessário */
+    width: 100px;  
+    height: 100px;
 }
 img {
     border-radius: 10%;
